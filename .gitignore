@@ -1,1 +1,10 @@
 node_modules
+
+/src/generated/prisma
+
+# local env files
+.env*.local
+
+# next.js
+/.next/
+/out/
